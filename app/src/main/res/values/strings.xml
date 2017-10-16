@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BingSpeechAPI-STTExample</string>
+
+    <!--將您的 APIKey 設置於此處-->
+    <string name="primaryKey">your primary key</string>
+
+    <!--格式為 Your Endpoint/issueToken -->
+    <string name="authenticationUri">https://api.cognitive.microsoft.com/sts/v1.0/issueToken</string>
+</resources>
